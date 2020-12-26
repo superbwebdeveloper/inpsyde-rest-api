@@ -2,7 +2,7 @@
     "name": "balbir/inpsyde-rest-api",
     "description": "Custom endpoint for jsonplaceholder user details",
     "type": "wordpress-plugin",
-    "license": "GPL",
+    "license": "GPL-2.0-only",
     "authors":[
         {
             "name":"Balbir Kaur",
