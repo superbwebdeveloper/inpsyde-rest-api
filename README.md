@@ -1,3 +1,7 @@
+# Inpsyde Rest Api Composer
+
+composer require balbir/inpsyde-rest-api:dev-main
+
 # Inpsyde Rest Api Steps
 
 Steps to create a plugin
@@ -26,7 +30,3 @@ Steps to create a plugin
 - Go to Plugins and Install the zip folder and click on Activate.
 - Then go to Pages-> Create Page and Paste the short code [typicode_data] and publish the post.
 - View the page and click on any User info field(eg. username etc), It will display the user details.
-
-# Inpsyde Rest Api Composer
-
-
