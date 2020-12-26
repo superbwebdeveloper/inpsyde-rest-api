@@ -1,0 +1,22 @@
+{
+    "name": "balbir/inpsyde-rest-api",
+    "description": "Custom endpoint for jsonplaceholder user details",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors":[
+        {
+            "name":"Balbir Kaur",
+            "email":"superbwebdeveloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": { 
+        "php": ">=5.4",
+        "composer/installers": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+         "Inc\\": ""
+        }
+      }
+}

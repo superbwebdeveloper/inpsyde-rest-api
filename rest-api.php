@@ -13,6 +13,10 @@
 
 // If this file is access directly, abort!
 defined('ABSPATH') or die('Unauthorized Access');
+
+if (file_exists(dirname(__FILE__) . '/vendor/autoload.php')) {
+  require_once dirname(__FILE__) . '/vendor/autoload.php';
+}
 // Define constants.
 define('INSPSYDE_REST_API_PLUGIN_URL', plugin_dir_url(__FILE__));
 
