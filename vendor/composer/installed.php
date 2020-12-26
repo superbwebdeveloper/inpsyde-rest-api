@@ -22,13 +22,12 @@
     ),
     'composer/installers' => 
     array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
+      'pretty_version' => 'v1.9.0',
+      'version' => '1.9.0.0',
       'aliases' => 
       array (
-        0 => '1.x-dev',
       ),
-      'reference' => '7f3c618fcbfc787cca2bb7a127e7eb3a146c7046',
+      'reference' => 'b93bcf0fa1fccb0b7d176b0967d969691cd74cca',
     ),
     'roundcube/plugin-installer' => 
     array (
